@@ -1,10 +1,13 @@
 {
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.liteninja.applications": "https://github.com/sponticelli/LiteNinja-Applications.git",
     "com.liteninja.audioservice": "https://github.com/sponticelli/LiteNinja-AudioService.git",
+    "com.liteninja.bootstrapping": "https://github.com/sponticelli/LiteNinja-Bootstrapping.git",
     "com.liteninja.comnands": "https://github.com/sponticelli/LiteNinja-Commands.git",
     "com.liteninja.injection": "https://github.com/sponticelli/LiteNinja-Injection.git",
     "com.liteninja.localization": "https://github.com/sponticelli/LiteNinja-Localization.git",
+    "com.liteninja.monoactions": "https://github.com/sponticelli/LiteNinja-MonoActions.git",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.2d": "2.0.0",
     "com.unity.ide.rider": "3.0.28",
